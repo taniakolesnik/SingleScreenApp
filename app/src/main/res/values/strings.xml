@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+
+    <string name="cafe_address">77 Pitfield St\nHoxton\nLondon N1 6BT\n020 7251 6018</string>
+
+    <string name="cafe_name">Curious\nYellow\nKafe</string>
+
+    <string name="quote">This pretty, modern cafe,\nwith lots of outdoor seating under bright yellow parasols,\noffers a range of great breakfast,\nbrunch and lunch options from the UK and Scandinavia,\nranging from a full English breakfast\nand veggie option to a Scandi version featuring Gravlax,\ncheese,\ncrudités\nand bread selection.</string>
+
+
+</resources>
